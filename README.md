@@ -35,4 +35,4 @@
     """
 
 # Coverage: 
-![alt text](files/coverage.png)
+![Test Coverage](files/coverage.png)
